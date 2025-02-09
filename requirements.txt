@@ -1,0 +1,7 @@
+cassio
+langchain
+datasets
+openai
+tiktoken
+langchain_community
+
